@@ -1,0 +1,14 @@
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\bin\Debug\net8.0\ISprogDerinimas.exe
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\bin\Debug\net8.0\ISprogDerinimas.deps.json
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\bin\Debug\net8.0\ISprogDerinimas.runtimeconfig.json
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\bin\Debug\net8.0\ISprogDerinimas.dll
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\bin\Debug\net8.0\ISprogDerinimas.pdb
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ISprogDerinimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ISprogDerinimas.AssemblyInfoInputs.cache
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ISprogDerinimas.AssemblyInfo.cs
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ISprogDerinimas.csproj.CoreCompileInputs.cache
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ISprogDerinimas.dll
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\refint\ISprogDerinimas.dll
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ISprogDerinimas.pdb
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ISprogDerinimas.genruntimeconfig.cache
+C:\Users\zygis\OneDrive\Desktop\ISprogDerinimas\ISprogDerinimas\obj\Debug\net8.0\ref\ISprogDerinimas.dll
